@@ -1,6 +1,10 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hi))
 shdbahcb
 =======
 Hi))
 >>>>>>> fb63918 (hello)
+=======
+Hi
+>>>>>>> bdcc68f883baa620704f05a1cf0823fd6e33324a
