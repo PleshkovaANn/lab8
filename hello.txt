@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hi))
 shdbahcb
+=======
+Hi))
+>>>>>>> fb63918 (hello)
